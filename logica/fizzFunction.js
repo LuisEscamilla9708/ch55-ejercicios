@@ -2,6 +2,7 @@
 
 
 // firma de la funcion 
+
 const fiizbuzz = (counterNumber) => {
     let counter = 1; 
 do{

@@ -9,7 +9,7 @@ y genera el mayor de esos números.
 3.- calcular con una funcion  estrcutura de control cual es el mayor 
 */
 
-let counter = 0;
+const counter = 0;
 const numbers = [];
 
 alert("Vamos a pedirte 10 numeros");

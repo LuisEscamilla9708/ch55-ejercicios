@@ -13,6 +13,6 @@ function arrayMultiplos(numero, longitud) {
 
   return resultado;
 }
-
-console.log(arrayMultiplos(2, 10));   // [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
-console.log(arrayMultiplos(17, 6));   // [17, 34, 51, 68, 85, 102]
+//imprimira los resultados 
+console.log(arrayMultiplos(2, 10));   
+console.log(arrayMultiplos(17, 6));   

@@ -2,8 +2,8 @@
 //Mostrar el estado en línea de una lista de usuarios.
 //1. Especificar un conjunto de usuarios 
 //2.crear la funcion 
-//2.1 Evaluar cuantos usuarios estan
-//3.Mostrar en la consola 
+//3. Evaluar cuantos usuarios estan
+//4.Mostrar en la consola 
 //
 
  function onlineStatus(usuarios) {
